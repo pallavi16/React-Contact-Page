@@ -1,0 +1,16 @@
+.contact_container{
+    max-width: 1000px;
+    margin: 0 auto;
+    
+}
+
+.contact_container h1 {
+    font-size: 48px;
+    font-weight: 800;
+    max-width: 80%;
+} 
+
+.contact_container p{
+    font-weight: 800;    
+    
+}
